@@ -1,7 +1,7 @@
 # ZIO Application Backend
 ### by LESIEUX Benjamin - LIU Senhua -  MARIOTTE Thomas - PHAM Van Alenn
 
-We are coding altogether on IntelliJ
+We are coding altogether on IntelliJ !
 
 
 ### **Features**
